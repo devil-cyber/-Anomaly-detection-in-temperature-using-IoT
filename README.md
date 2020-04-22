@@ -1,8 +1,7 @@
 # -Anomaly-detection-in-temperature-using-IoT-and-ML
 # -Things used in this project
 Hardware components,
-Jumper wires (generic)	
-,Jumper wires (generic),
+Jumper wires (generic),
 Bolt WiFi Module,	
 LM35 sensor,
 Breadboard (generic)	
