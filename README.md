@@ -1,20 +1,18 @@
 # -Anomaly-detection-in-temperature-using-IoT-and-ML
 # -Things used in this project
-Hardware components
+Hardware components,
 Jumper wires (generic)	
-Jumper wires (generic)
-Bolt WiFi Module	
-Bolt IoT Bolt WiFi Module
-LM35 sensor
+,Jumper wires (generic),
+Bolt WiFi Module,	
+LM35 sensor,
 Breadboard (generic)	
-Breadboard (generic)
 # -Software apps and online services
-Bolt IoT Android App	
-Bolt IoT Android App
-Bolt Cloud	
-Bolt IoT Bolt Cloud
-vmware ubuntu
-SMS Messaging API	
+Bolt IoT Android App,	
+Bolt IoT Android App,
+Bolt Cloud,	
+Bolt IoT Bolt Cloud,
+vmware ubuntu,
+SMS Messaging API,	
 Twilio SMS Messaging API
 # - Motivation for this project:
 With the advancement in technology, IoT is the "next big thing!" With increased demand of automation and smart appliances at theindustry level as well as at personal home level, IoT is serving the need to make the objects smart.
