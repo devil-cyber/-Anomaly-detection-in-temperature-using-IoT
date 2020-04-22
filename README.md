@@ -7,10 +7,8 @@ Bolt WiFi Module,
 LM35 sensor,
 Breadboard (generic)	
 # -Software apps and online services
-Bolt IoT Android App,	
 Bolt IoT Android App,
 Bolt Cloud,	
-Bolt IoT Bolt Cloud,
 vmware ubuntu,
 SMS Messaging API,	
 Twilio SMS Messaging API
